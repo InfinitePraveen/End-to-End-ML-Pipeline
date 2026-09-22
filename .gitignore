@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local MLflow
+# mlruns/
+# mlartifacts/
+
+# Generated model artifacts
+# models/*.joblib
+# models/*.pkl
+
+# Local data cache
+# data/*.csv
+# data/*.json
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Flask
+# instance/
