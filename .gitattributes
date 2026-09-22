@@ -1,1 +1,2 @@
 models/california_housing_pipeline.joblib filter=lfs diff=lfs merge=lfs -text
+notebooks/mlruns/1/models/m-67f980c6366a486b92023213c1496638/artifacts/model.skops filter=lfs diff=lfs merge=lfs -text
